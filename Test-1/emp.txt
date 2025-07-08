@@ -1,0 +1,9 @@
+Name    Age   Department
+Sneha   25    HR
+Samira  30    Finance
+Rita    28    IT
+Sohan   27    HR
+Sona    24    Marketing
+Suman   29    Sales
+Sweta   26    Finance
+Saira   23    IT

@@ -1,0 +1,5 @@
+Welcome to our site: http://example.com.
+Secure site: https://secure.example.com/page?id=123
+Visit http://openai.com or https://chat.openai.com for more.
+Random text with no URL here.
+Invalid link: htp://wrong.com
